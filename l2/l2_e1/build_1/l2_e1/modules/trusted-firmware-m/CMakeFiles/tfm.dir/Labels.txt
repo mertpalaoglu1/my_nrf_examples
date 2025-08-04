@@ -1,0 +1,13 @@
+# Target labels
+ tfm
+# Source files and their labels
+C:/my_nrf_examples/ncs-fund/l2/l2_e1/build_1/l2_e1/modules/trusted-firmware-m/CMakeFiles/tfm
+C:/my_nrf_examples/ncs-fund/l2/l2_e1/build_1/l2_e1/modules/trusted-firmware-m/CMakeFiles/tfm.rule
+C:/my_nrf_examples/ncs-fund/l2/l2_e1/build_1/l2_e1/modules/trusted-firmware-m/CMakeFiles/tfm-complete.rule
+C:/my_nrf_examples/ncs-fund/l2/l2_e1/build_1/l2_e1/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-build.rule
+C:/my_nrf_examples/ncs-fund/l2/l2_e1/build_1/l2_e1/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-configure.rule
+C:/my_nrf_examples/ncs-fund/l2/l2_e1/build_1/l2_e1/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-download.rule
+C:/my_nrf_examples/ncs-fund/l2/l2_e1/build_1/l2_e1/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-install.rule
+C:/my_nrf_examples/ncs-fund/l2/l2_e1/build_1/l2_e1/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-mkdir.rule
+C:/my_nrf_examples/ncs-fund/l2/l2_e1/build_1/l2_e1/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-patch.rule
+C:/my_nrf_examples/ncs-fund/l2/l2_e1/build_1/l2_e1/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-update.rule

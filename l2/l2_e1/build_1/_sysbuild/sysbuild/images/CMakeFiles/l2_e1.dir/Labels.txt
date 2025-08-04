@@ -1,0 +1,13 @@
+# Target labels
+ l2_e1
+# Source files and their labels
+C:/my_nrf_examples/ncs-fund/l2/l2_e1/build_1/_sysbuild/sysbuild/images/CMakeFiles/l2_e1
+C:/my_nrf_examples/ncs-fund/l2/l2_e1/build_1/_sysbuild/sysbuild/images/CMakeFiles/l2_e1.rule
+C:/my_nrf_examples/ncs-fund/l2/l2_e1/build_1/_sysbuild/sysbuild/images/CMakeFiles/l2_e1-complete.rule
+C:/my_nrf_examples/ncs-fund/l2/l2_e1/build_1/_sysbuild/sysbuild/images/l2_e1-prefix/src/l2_e1-stamp/l2_e1-build.rule
+C:/my_nrf_examples/ncs-fund/l2/l2_e1/build_1/_sysbuild/sysbuild/images/l2_e1-prefix/src/l2_e1-stamp/l2_e1-configure.rule
+C:/my_nrf_examples/ncs-fund/l2/l2_e1/build_1/_sysbuild/sysbuild/images/l2_e1-prefix/src/l2_e1-stamp/l2_e1-download.rule
+C:/my_nrf_examples/ncs-fund/l2/l2_e1/build_1/_sysbuild/sysbuild/images/l2_e1-prefix/src/l2_e1-stamp/l2_e1-install.rule
+C:/my_nrf_examples/ncs-fund/l2/l2_e1/build_1/_sysbuild/sysbuild/images/l2_e1-prefix/src/l2_e1-stamp/l2_e1-mkdir.rule
+C:/my_nrf_examples/ncs-fund/l2/l2_e1/build_1/_sysbuild/sysbuild/images/l2_e1-prefix/src/l2_e1-stamp/l2_e1-patch.rule
+C:/my_nrf_examples/ncs-fund/l2/l2_e1/build_1/_sysbuild/sysbuild/images/l2_e1-prefix/src/l2_e1-stamp/l2_e1-update.rule
